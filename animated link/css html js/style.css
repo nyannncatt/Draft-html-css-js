@@ -4,10 +4,6 @@
   
 }
 
-
-
-
-
 .ace_header {
 
     text-align: center; font-style: italic; 
@@ -46,7 +42,8 @@
      width: 25px;
 }
      .ace_linkicon:hover {
-        transform: scale(1.1);
+        transition: all 0.65s;
+        transform: rotateY(360deg);
 
 
      }
