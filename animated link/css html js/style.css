@@ -1,0 +1,67 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+
+
+
+
+.ace_header {
+
+    text-align: center; font-style: italic; 
+    font-size: 30px;
+    font-weight: 1000; color:red;
+}
+.ace_header_class {
+
+    
+    background-size: auto; background-position: center; object-fit: fill; 
+    background-repeat: no-repeat;  border-width: 2px; border-style: solid; border-color: rgb(255, 123, 0);
+}
+
+ .ace_header_class2 {
+     background-image: url(https://i.pinimg.com/originals/7f/2b/db/7f2bdbbce3fdb2135605d8e5f148f6d9.gif);
+     background-size: auto; background-position: center;
+     object-fit: fill; background-repeat: no-repeat;  border-width: 2px;
+     border-style: solid; border-color: rgb(255, 123, 0);
+     background-image: linear-gradient(to right, red , yellow);
+}
+
+.ace_logo {
+     width: 60px; display: block; margin-left: 40%;
+
+}
+
+.ace_style_span {
+      border-radius: 12px;
+     background: #8aff90;
+     padding: 4px;
+     width: 200px;
+     height: 150px;
+}
+
+.ace_icon {
+     width: 25px;
+}
+     .ace_linkicon:hover {
+        transform: scale(1.1);
+
+
+     }
+     
+
+.ace_button {
+    background-image: linear-gradient(to right, red , yellow);
+
+    background-position-y:top;border-width: 2px;border-style: solid; border-width: 2px; border-color: rgb(255, 123, 0);
+      
+}
+
+.ace_layer {
+
+    background-image: url(https://wallpaperaccess.com/full/8088665.gif);
+    background-size: auto; background-position: center; object-fit: fill; 
+    background-repeat: no-repeat;  border-width: 2px; border-style: solid; border-color: rgb(255, 123, 0);
+}
